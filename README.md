@@ -1,184 +1,246 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=M8%204G&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MediaTek%20%E2%80%A2%20Tablet%20%E2%80%A2%20Hack%20%E2%80%A2%20Root%20%E2%80%A2%20Linux&descAlignY=60&descSize=18" width="100%" alt="banner M8 4G"/>
+<img src="assets/banner.gif" width="100%" alt="NAORI // banner"/>
 
-<a href="https://github.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Tablet+MediaTek+M8+4G+%F0%9F%93%B1;Flash+%7C+Unbrick+%7C+Root+%7C+Linux+%F0%9F%90%A7;Tudo+documentado+e+open+source+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://wa.me/5598985252253">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=780&height=44&lines=%3E+whoami+%3A+naori;%3E+formato+tablet+%5B+OK+%5D;%3E+desbloqueio+de+chip+%5B+OK+%5D;%3E+pre%C3%A7o+justo%2C+sem+pegadinha+%5B+OK+%5D" alt="typing"/>
 </a>
 
-<br/>
+<br/><br/>
 
-![Plataforma](https://img.shields.io/badge/Plataforma-MediaTek-FF6F00?style=for-the-badge&logo=mediatek&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Root-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Alpine%20chroot-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-Ready-000000?style=for-the-badge&logo=termux&logoColor=white)
-
-![Stars](https://img.shields.io/github/stars/SEU_USUARIO/m8_4g?style=for-the-badge&color=ffd700&logo=github)
-![Forks](https://img.shields.io/github/forks/SEU_USUARIO/m8_4g?style=for-the-badge&color=00c7ff&logo=github)
-![Issues](https://img.shields.io/github/issues/SEU_USUARIO/m8_4g?style=for-the-badge&color=ff4d6d&logo=github)
-![License](https://img.shields.io/github/license/SEU_USUARIO/m8_4g?style=for-the-badge&color=8a2be2)
-
-<br/>
-
-**[📖 Sobre](#-sobre) • [📱 Aparelho](#-sobre-o-aparelho) • [🛠️ Ferramentas](#️-ferramentas) • [⚡ Guia rápido](#-guia-rápido) • [🐧 Linux](#-linux-no-m8-4g) • [🖼️ Screenshots](#️-screenshots) • [🤝 Contribuir](#-contribuindo)**
+![Servico](https://img.shields.io/badge/SERVI%C3%87O-FORMATA%C3%87%C3%83O-000000?style=for-the-badge&labelColor=ffffff&color=000000)
+![Chip](https://img.shields.io/badge/CHIP-DESBLOQUEIO-000000?style=for-the-badge&labelColor=ffffff&color=000000)
+![Tablet](https://img.shields.io/badge/TABLET-M8%204G-000000?style=for-the-badge&labelColor=ffffff&color=000000)
+![Preco](https://img.shields.io/badge/COMBO-R%2430-000000?style=for-the-badge&labelColor=ffffff&color=000000)
+![Pegadinha](https://img.shields.io/badge/PEGADINHA-ZERO-000000?style=for-the-badge&labelColor=ffffff&color=000000)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8a2be2&height=3" width="100%" alt="divisor"/>
+<br/>
 
-## ✨ Sobre
+<img src="assets/div-demo.gif" width="100%" alt="divisor"/>
 
-> **M8 4G** é um tablet baseado em **MediaTek**. Este repositório reúne tudo o que é necessário para **entender, restaurar, modificar e dar uma segunda vida** ao aparelho — de forma simples e direta.
+<div align="center">
+
+<img src="assets/tablet-hero.gif" width="100%" alt="Animação: formatação, desbloqueio de chip e customização do tablet"/>
+
+</div>
+
+<img src="assets/div-servicos.gif" width="100%" alt="divisor"/>
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  RESPONSÁVEL : NAORI                                     │
+│  EQUIPAMENTO : TABLET M8 4G                              │
+│  SERVIÇOS    : formatação · desbloqueio de chip          │
+│  EXTRA       : personalização e customização             │
+│  STATUS      : [■■■■■■■■■■] ATENDENDO                    │
+└──────────────────────────────────────────────────────────┘
+```
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🔧 Restaurar
-Formatar partições e recuperar o aparelho quando ele travar.
+### 🧹 `01` FORMATAÇÃO
+Tablet lento? Eu formato e ele volta a correr como se tivesse tomado café ☕
 
 </td>
 <td width="33%" align="center">
 
-### 🔓 Customizar
-Root, ajustes de sistema e kernel.
+### 🔓 `10` DESBLOQUEIO
+Chip travado? Eu libero. Sem choro e sem drama 😎
 
 </td>
 <td width="33%" align="center">
 
-### 🐧 Linux
-Rodar **Alpine Linux** em chroot direto no Android.
+### 🎨 `11` CUSTOMIZAÇÃO
+Deixo o tablet com a sua cara (e a sua personalidade) ✨
 
 </td>
 </tr>
 </table>
 
-## 📱 Sobre o aparelho
-
 <div align="center">
 
-<img src="https://placehold.co/700x380/0f2027/00e5ff?text=Foto+do+M8+4G&font=montserrat" width="70%" alt="Foto do M8 4G"/>
+<img src="assets/chip-desbloqueio.gif" width="85%" alt="Animação: desbloqueio de chip"/>
 
 </div>
 
-| 🧩 Item | 📋 Detalhe |
+<img src="assets/div-precos.gif" width="100%" alt="divisor"/>
+
+## 💸 Preços (sem pegadinha e sem letra miúda)
+
+<div align="center">
+
+<img src="assets/preco.gif" width="100%" alt="R$30"/>
+
+</div>
+
+| `//` SERVIÇO | `//` PREÇO | `//` O QUE VOCÊ LEVA |
+|:--|:--:|:--|
+| 🧹 **Formatação do tablet** | **R$ 20** | Tablet limpinho e rápido, sem aquele lixo acumulado 🗑️ |
+| 🔓 **Desbloqueio de chip** | **R$ 10** _(por chip)_ | Chip liberado pra falar, navegar e postar 📶 |
+| 🎁 **Combo: tablet + 1 chip** | **R$ 30** | Os dois serviços juntos. Cabe no bolso e ainda sobra pro lanche 🍔 |
+
+```text
+   🧹  R$ 20   (tablet)
+ + 🔓  R$ 10   (chip)
+ ─────────────────────
+ = 💰  R$ 30   (matemática de verdade, sem pegadinha)
+```
+
+<details>
+<summary><b>❓ Perguntas frequentes (e algumas engraçadas)</b></summary>
+
+<br/>
+
+**Posso pagar em abraço? 🤗**
+Abraço é ótimo, mas o combinado é em dinheiro 😄 A forma de pagamento a gente fecha no WhatsApp.
+
+**Meu tablet está mais lento que internet de 2005 🐌**
+Perfeito. A formatação existe exatamente pra isso.
+
+**Tenho 3 chips, e agora? 📱📱📱**
+Cada chip é R$ 10. Tablet + 3 chips = R$ 20 + R$ 30 = **R$ 50**. Matemática simples, igual ao serviço.
+
+**Vai apagar meus dados? 😬**
+Vai. Formatar é isso. Faz backup antes e me agradece depois 💾
+
+**Dá pra personalizar? 🎨**
+Dá! É a minha parte favorita. Veja a seção de customização logo abaixo.
+
+</details>
+
+<img src="assets/div-tablet.gif" width="100%" alt="divisor"/>
+
+## 📱 O tablet por fora
+
+<div align="center">
+
+<img src="assets/tablet-fora-pro.png" width="100%" alt="Design externo do tablet M8 4G: frente e costas"/>
+
+</div>
+
+| `//` PARTE | `//` DESCRIÇÃO |
+|:--|:--|
+| **Tela** | Painel frontal, ocupa quase toda a frente do aparelho |
+| **Câmera frontal** | Fica na parte de cima da tela |
+| **Botões laterais** | Power e volume na lateral |
+| **Bandeja de chip** | Entrada do chip 4G na lateral |
+| **Entrada USB** | Na borda de baixo, para carregar e conectar ao PC |
+| **Traseira** | Câmera traseira, faixas da antena 4G, logo M8 4G e alto-falante |
+
+## 🔩 O tablet por dentro
+
+<div align="center">
+
+<img src="assets/tablet-dentro-pro.png" width="100%" alt="Design interno do tablet M8 4G"/>
+
+</div>
+
+| `//` PEÇA | `//` FUNÇÃO |
+|:--|:--|
+| **Bateria** | Ocupa a maior parte do espaço interno |
+| **Placa principal** | Onde ficam o processador, a memória e o módulo 4G |
+| **Processador MediaTek** | O "cérebro" do tablet |
+| **Memória RAM e armazenamento** | Rodam o sistema e guardam seus arquivos |
+| **Módulo 4G e slot de chip** | Conectam o tablet à rede móvel |
+| **Entrada USB e alto-falante** | Ficam na parte de baixo do aparelho |
+
+## 🧩 Vista explodida
+
+<div align="center">
+
+<img src="assets/tablet-explodido.gif" width="100%" alt="Vista explodida do tablet M8 4G"/>
+
+</div>
+
+| `//` FICHA TÉCNICA | `//` VALOR |
 |:--|:--|
 | **Modelo** | M8 4G |
 | **Chipset** | MediaTek |
 | **Conectividade** | 4G LTE + Wi-Fi |
-| **Arquitetura** | aarch64 (ARM64) |
 | **RAM / Armazenamento** | _preencher_ |
+| **Tela** | _preencher_ |
+| **Bateria** | _preencher_ |
 | **Versão do Android** | _preencher_ |
 
-> 💡 Edite a tabela acima com as especificações reais do seu aparelho.
+> Os renders são **ilustrativos**. A posição exata das peças pode variar conforme a unidade.
 
-## 🛠️ Ferramentas
+<details>
+<summary><b>📐 Ver esquemas técnicos (blueprint)</b></summary>
 
-<div align="center">
-
-| Ferramenta | Para que serve |
-|:--:|:--|
-| ![mtkclient](https://img.shields.io/badge/mtkclient-00E5FF?style=flat-square&logo=python&logoColor=black) | Ler, apagar e gravar partições em chips MediaTek |
-| ![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white) | Terminal no próprio Android |
-| ![Magisk](https://img.shields.io/badge/Magisk%20%2F%20KernelSU-00AF9C?style=flat-square&logo=magisk&logoColor=white) | Acesso root |
-| ![Alpine](https://img.shields.io/badge/Alpine%20Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=white) | Linux leve rodando em chroot |
-
-</div>
-
-## ⚡ Guia rápido
-
-### 1️⃣ Clonar o repositório
-
-```bash
-git clone https://github.com/SEU_USUARIO/m8_4g.git
-cd m8_4g
-```
-
-### 2️⃣ Instalar o mtkclient
-
-```bash
-git clone https://github.com/bkerler/mtkclient.git
-cd mtkclient
-pip install -r requirements.txt
-```
-
-### 3️⃣ Limpar partições de usuário
-
-> [!WARNING]
-> Esta etapa **apaga todos os seus dados**. Faça backup antes de continuar.
-
-```bash
-python mtk.py e userdata
-python mtk.py e cache
-python mtk.py e metadata
-python mtk.py e frp
-```
-
-Com o aparelho **desligado**, conecte o cabo USB quando o `mtkclient` pedir.
-
-> [!TIP]
-> Sem PC por perto? Dá para rodar o `mtkclient` pelo **Termux** com root.
-
-## 🐧 Linux no M8 4G
-
-Rode **Alpine Linux** em chroot, com acesso root via Magisk ou KernelSU:
-
-```bash
-# Exemplo de estrutura
-/data/local/alpine
-```
-
-- 🪶 Leve e rápido
-- 🔗 Bind-mount dos diretórios do Android (`/sdcard`, `/data` etc.)
-- 🖥️ Ideal para ferramentas de linha de comando e desenvolvimento
-
-## 🖼️ Screenshots
+<br/>
 
 <div align="center">
 
-<img src="https://placehold.co/260x420/0f2027/00e5ff?text=Tela+1&font=montserrat" width="24%" alt="Screenshot 1"/>
-<img src="https://placehold.co/260x420/203a43/8a2be2?text=Tela+2&font=montserrat" width="24%" alt="Screenshot 2"/>
-<img src="https://placehold.co/260x420/2c5364/ff6f00?text=Tela+3&font=montserrat" width="24%" alt="Screenshot 3"/>
+<img src="assets/tablet-fora.gif" width="100%" alt="Esquema técnico externo"/>
+
+<img src="assets/tablet-dentro.gif" width="100%" alt="Esquema técnico interno"/>
 
 </div>
 
-> 📸 Troque os placeholders por prints reais salvos em uma pasta `assets/` do repositório.
+</details>
 
-## 🗂️ Estrutura do projeto
+<img src="assets/div-custom.gif" width="100%" alt="divisor"/>
+
+## 🎨 Personalização
+
+> **Este tablet pode ser personalizado e customizado por mim.** Deixo ele do jeito que você quiser. ✨
+
+<div align="center">
+
+<img src="assets/tablet-custom.gif" width="100%" alt="Animação: temas e ícones personalizados no tablet"/>
+
+</div>
+
+| `//` O QUE EU FAÇO | `//` DETALHE |
+|:--|:--|
+| 🎨 **Visual** | Ícones, temas, papel de parede e launcher personalizados |
+| 🧹 **Limpeza** | Sistema limpo e organizado após a formatação |
+| 🔓 **Root** | Acesso root, sob consulta |
+| 🐧 **Linux** | Alpine Linux rodando em chroot dentro do tablet, sob consulta |
+| ⚙️ **Avançado** | ROM e kernel personalizados, sob consulta |
+
+## ✅ Por que chamar o Naori?
+
+| | |
+|:--|:--|
+| 👤 **Atendimento direto** | Você fala comigo, sem intermediário |
+| 🧾 **Preço claro** | R$ 20, R$ 10 ou R$ 30. Sem surpresa no final |
+| 🎯 **Sob medida** | Cada tablet recebe a customização que você pedir |
+| 💬 **Conversa fácil** | Chama no WhatsApp e tira suas dúvidas |
+
+<img src="assets/div-contato.gif" width="100%" alt="divisor"/>
+
+<div align="center">
 
 ```text
-m8_4g/
-├── 📄 README.md
-├── 📁 assets/        # imagens e screenshots
-├── 📁 scripts/       # scripts de apoio
-├── 📁 docs/          # guias e anotações
-└── 📜 LICENSE
+┌──────────────────────────────────────────────────────────┐
+│  CONTATO  : NAORI                                        │
+│  WHATSAPP : (98) 98525-2253                              │
+│  PINTEREST: @xk_xzl                                      │
+│  STATUS   : [■■■■■■■■■■] ATENDENDO                       │
+└──────────────────────────────────────────────────────────┘
 ```
 
-## 🤝 Contribuindo
+<a href="https://wa.me/5598985252253"><img src="https://img.shields.io/badge/WHATSAPP-(98)%2098525--2253-000000?style=for-the-badge&labelColor=ffffff&logo=whatsapp&logoColor=black" alt="WhatsApp"/></a>
+<a href="https://www.pinterest.com/xk_xzl/"><img src="https://img.shields.io/badge/PINTEREST-@xk__xzl-000000?style=for-the-badge&labelColor=ffffff&logo=pinterest&logoColor=black" alt="Pinterest"/></a>
 
-Contribuições são muito bem-vindas!
+</div>
 
-1. 🍴 Faça um **fork**
-2. 🌿 Crie uma branch: `git checkout -b minha-melhoria`
-3. 💾 Commit: `git commit -m "Minha melhoria"`
-4. 📤 Push: `git push origin minha-melhoria`
-5. 🔁 Abra um **Pull Request**
-
-## ⚠️ Aviso
-
-> Modificar o aparelho pode **anular a garantia** e, se feito de forma errada, causar **brick**. Tudo aqui é fornecido **sem garantia** — use por sua conta e risco.
-
-## 📜 Licença
-
-Distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` para mais detalhes.
+> [!WARNING]
+> A **formatação apaga todos os dados** do tablet. Faça backup do que for importante antes de entregar. 💾
 
 <div align="center">
 
 <br/>
 
-### ⭐ Gostou? Deixe uma estrela!
+```text
+[ ★ ]  feito por naori  [ ★ ]
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="rodapé"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" alt="rodapé"/>
 
 </div>
